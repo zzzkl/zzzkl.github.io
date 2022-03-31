@@ -1,0 +1,8 @@
+title: LesleyLu是猪
+description: 哈哈哈
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
